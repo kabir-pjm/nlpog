@@ -163,5 +163,5 @@ This project is for educational/portfolio purposes.
 
 ## Author
 
-[Your Name]
+Sankalp Chaube
 
